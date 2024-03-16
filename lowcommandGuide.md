@@ -57,4 +57,4 @@ By Executive Order #1 issued by Central Command in Space Law, it is imperative t
 
   **4. Enforce and delegate conscientiously** Rules 1, 2, 5, and 6 can be enforced by Low Command. Rules 3, 4, 8, and up are to be handled by Central Command and any inquiries related to them should be delegated to CC. 
 
-  **5. Sector Administrative Responsibilities:** Station command is required to cover station and security crew expenses upon request, if a ship is being reimbursed, it shall be considered station property, selling a reimbursed ship shall be considered embezzlement. Unless the received funds from the reimbursed ship is used to cover station expenses.
+  **5. Sector Administrative Responsibilities:** Station command can on discretion to cover station and security crew expenses upon request, if a ship is being reimbursed, it shall be considered station property, selling a reimbursed ship shall be considered embezzlement. Unless the received funds from the reimbursed ship is used to cover station expenses.
