@@ -59,4 +59,4 @@ By Executive Order #1 issued by Central Command in Space Law, it is imperative t
 
   **5. Sector Administrative Responsibilities:** Station command can on discretion to cover station and security crew expenses upon request, if a ship is being reimbursed, it shall be considered station property, selling a reimbursed ship shall be considered embezzlement. Unless the received funds from the reimbursed ship is used to cover station expenses.
 
-  **6. Whenever you wish to end your shift, do add at least only 1 more station command job you play as in the station records computer:** This is to allow other low command members to step in and become station command whenever you decide to end your shift. Failure to do so may lead to a lack of sector command, which can lead to severe consequences.
+  **6. Whenever you wish to end your shift, you need to add at least only 1 more station command job you play as in the station records computer:** This is to allow other low command members to step in and become station command whenever you decide to end your shift. Failure to do so may lead to a lack of sector command, which can lead to severe consequences.
