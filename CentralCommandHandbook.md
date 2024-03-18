@@ -65,16 +65,21 @@ Self-antagging, if it happens in a single case and does not include mass RDM, do
 
 ## 6. Dealing with Extreme Offences
 
-In cases of extreme offences such as mass RDM, mass sabotage, exploiting, or ERP, follow these procedures:
+Extreme offences include:
+- Mass RDM (2 or more random murders)
+- Mass Sabotage (Theft of station funds, intentionally causing severe damage to either station or other users' shuttles, disabling atmos or "spacing" rooms, or otherwise make either the station or other users' shuttles uninhabitatable).
+In cases of such extreme offences, follow these procedures:
 
 - **Mass RDM and Mass Sabotage:**
-  1. 3-day ban
-  2. 7-day ban
-  3. 14-day ban
-  4. Permanent ban
+  1st time: 3-day ban
+  2nd time: 7-day ban
+  3rd time: 14-day ban
+  4th time: Appealable permanent ban
 
-- **Exploiting and ERP:**
-  - Permanent ban, as these offences are considered severe and always warrant a permanent ban.
+- **Other offences:**
+  - Erotic roleplay (ERP) or any other sexual content: Appealable permanent ban.
+  - Usage of exploits or game modifications: Appealable permanent ban.
+  - Ban evasion: Appealable permanent ban.
 
 These are always documented with the noting system. 
 
