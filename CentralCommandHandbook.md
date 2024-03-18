@@ -75,10 +75,10 @@ Extreme offences include:
 In cases of such extreme offences, follow these procedures:
 
 - **Mass RDM and Mass Sabotage:**
-  1st time: 3-day ban
-  2nd time: 7-day ban
-  3rd time: 14-day ban
-  4th time: Appealable permanent ban
+  - 1st time: 3-day ban
+  - 2nd time: 7-day ban
+  - 3rd time: 14-day ban
+  - 4th time: Appealable permanent ban
 
 - **Other offences:**
   - Erotic roleplay (ERP) or any other sexual content: Appealable permanent ban.
