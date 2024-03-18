@@ -79,7 +79,7 @@ In cases of such extreme offences, follow these procedures:
 - **Other offences:**
   - Erotic roleplay (ERP) or any other sexual content: Appealable permanent ban.
   - Usage of exploits or game modifications: Appealable permanent ban.
-  - Ban evasion: Permanent ban.
+  - Ban evasion: Appealable permanent ban.
 
 These are always documented with the noting system. 
 
