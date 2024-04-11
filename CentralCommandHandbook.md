@@ -9,6 +9,10 @@
 4. [In-Character Approach and Delegating Enforcement](#in-character-approach-and-delegating-enforcement)
 5. [Dealing with Self-Antagging](#dealing-with-self-antagging)
 6. [Dealing with Extreme Offences](#dealing-with-extreme-offences)
+[Dealing with Problematic Players](#dealing-with-problematic-players)
+   - [7.1 Raiders](#71-raiders)
+   - [7.2 Shitters](#72-shitters)
+   - [7.3 Regulars Who Break Rules for Amusement](#73-regulars-who-break-rules-for-amusement)
 
 ## 1. Introduction
 
@@ -86,5 +90,32 @@ In cases of such extreme offences, follow these procedures:
   - Ban evasion: Appealable permanent ban.
 
 These are always documented with the noting system. 
+
+## 7. Dealing with Problematic Players
+
+In addition to extreme offences, Central Command recognizes three categories of problematic players: Raiders, Shitters, and Regulars who break rules for amusement.
+
+### 7.1 Raiders
+
+Raiders are individuals who consistently disrupt the gaming experience through intentional destruction, harassment, or other disruptive behavior. To address Raiders:
+
+- **Action:** Immediate ban from the server.
+- **Procedure:** Delete any associated accounts or characters to prevent further disruption.
+
+### 7.2 Shitters
+
+Shitters are players who engage in disruptive behavior, but it is not as severe or consistent as that of Raiders. They may engage in minor rule-breaking or cause occasional disturbances. To handle Shitters:
+
+- **Action:** Assign to Low Command for confinement in sector prison.
+- **Procedure:** Keep them under observation until they either reform their behavior or escalate to becoming Regulars who break rules for amusement.
+
+### 7.3 Regulars Who Break Rules for Amusement
+
+These players are regulars within the community but occasionally break rules for entertainment or amusement, without malicious intent. They may engage in minor rule-breaking for the sake of humor or experimentation. To address Regulars who break rules for amusement:
+
+- **Action:** Follow normal procedures outlined in this handbook.
+- **Procedure:** Document any infractions and apply appropriate consequences based on the severity and frequency of their actions.
+
+By categorizing and addressing problematic players accordingly, Central Command aims to maintain a fair and enjoyable gaming environment for all participants.
 
 By adhering to these guidelines, you contribute to the overall success of Pax Astralis and help create a vibrant and enjoyable gaming environment. Thank you for your dedication and commitment to Central Command!
