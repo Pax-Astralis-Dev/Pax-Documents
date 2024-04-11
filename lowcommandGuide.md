@@ -7,6 +7,7 @@
 4. [Low Command Rules](#lc-rules)
 5. [Troubleshooting](#troubleshooting)
 6. [Additional Resources](#additional-resources)
+7. [Sector Prison Procedure](#prison-procedure)
 
 ## Introduction <a name="introduction"></a>
 
@@ -60,3 +61,17 @@ By Executive Order #1 issued by Central Command in Space Law, it is imperative t
   **5. Sector Administrative Responsibilities:** Station command can on discretion to cover station and security crew expenses upon request, if a ship is being reimbursed, it shall be considered station property, selling a reimbursed ship shall be considered embezzlement. Unless the received funds from the reimbursed ship is used to cover station expenses.
 
   **6. Whenever you wish to end your shift, you need to add at least only 1 more station command job you play as in the station records computer:** This is to allow other low command members to step in and become station command whenever you decide to end your shift. Failure to do so may lead to a lack of sector command, which can lead to severe consequences.
+
+### Sector Prison Procedure for Dealing with Shitters<a name="prison-procedure"></a>
+
+In alignment with Section 7 of the Central Command (CC) Handbook, Low Command (LC) may be tasked by CC to address disruptive players known as "Shitters." To handle such cases effectively, Low Command has the authority to implement the following procedure:
+
+1. **Identification and Assessment:** LC members should identify players exhibiting disruptive behavior, categorized as Shitters, within the gaming community.
+
+2. **Assignment to Pax Sector Prison Registry:** LC has the discretion to add identified Shitters to the Pax Sector Prison Registry. This action mandates that the Shitter remains confined in prison upon joining the server and faces permanent brigging. 
+
+3. **Rehabilitation and Training:** The objective of this procedure is not merely punitive but aims for rehabilitation. By confining the Shitter to the prison environment, Sector Command can work to modify their behavior positively. Through interaction, guidance, and training, LC endeavors to transform the disruptive player into a constructive member of the Pax Astralis community.
+
+4. **Long-term Monitoring:** LC maintains vigilance over the progress of the Shitter within the prison environment. Regular assessment and interaction with the confined player are essential to gauge their development and readiness for reintegration into the general player base.
+
+5. **Community Impact:** By implementing this procedure, LC contributes to fostering a healthy and harmonious gaming environment. Proactive measures to address disruptive behavior not only benefit the community but also uphold the integrity and reputation of Pax Astralis.
