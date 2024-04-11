@@ -9,7 +9,7 @@
 4. [In-Character Approach and Delegating Enforcement](#in-character-approach-and-delegating-enforcement)
 5. [Dealing with Self-Antagging](#dealing-with-self-antagging)
 6. [Dealing with Extreme Offences](#dealing-with-extreme-offences)
-[Dealing with Problematic Players](#dealing-with-problematic-players)
+7. [Dealing with Problematic Players](#dealing-with-problematic-players)
    - [7.1 Raiders](#71-raiders)
    - [7.2 Shitters](#72-shitters)
    - [7.3 Regulars Who Break Rules for Amusement](#73-regulars-who-break-rules-for-amusement)
