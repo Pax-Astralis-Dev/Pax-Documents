@@ -23,22 +23,27 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 ### Disorderly Conduct
 
 - **Definition:** Disruptive behavior causing minor disturbances.
-- **Punishment:** Verbal warning, brig time (up to 5 minutes).
+- **Punishment:** Min. Verbal warning Max. brig time (up to 5 minutes).
 
 ### Docking Violation
 
-- **Definition:** Exceeding allowed docking time (15 minutes) or docking without permission.
-- **Punishment:** Verbal warning, fine (10000).
+- **Definition:** Exceeding allowed docking time (15 minutes) or docking without permission. Ships can request docking extension after 15 minutes.
+- **Punishment:** Min. Verbal warning Max. fine (10000).
 
 ### Theft of Non-Critical Items
 
-- **Definition:** Unauthorized acquisition of non-critical items.
-- **Punishment:** Brig time (up to 5 minutes) or fine (10000).
+- **Definition:** Unauthorized acquisition of non-critical items values 500 spesos or less.
+- **Punishment:** Min. Brig time (up to 5 minutes) or fine (10000). Max. Brig time (up to 10 minutes)
 
 ### Trespassing
 
 - **Definition:** Unauthorized entry into restricted areas.
-- **Punishment:** Brig time (up to 10 minutes).
+- **Punishment:** Min. Brig time (up to 5 minutes). Max. Brig time (up to 10 minutes).
+
+### Resisting Arrest
+
+- **Definition:** Unauthorized entry into restricted areas.
+- **Punishment:** Min. fine (500) Max. Brig time (up to 5 minutes)
 
 ## Moderate Crimes and Punishments <a name="moderate-crimes-and-punishments"></a>
 
