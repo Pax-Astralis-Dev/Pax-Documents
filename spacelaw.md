@@ -50,34 +50,34 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 ### Assault
 
 - **Definition:** Infliction of harm upon another crew member.
-- **Punishment:** Brig time (up to 12 minutes) or fine (24000).
+- **Punishment:** Min. Brig time (up to 12 minutes) or fine (24000). Max. Brig time (up to 20 minutes).
 
 ### Sabotage
 
 - **Definition:** Deliberate damage to station equipment.
-- **Punishment:** Brig time (up to 15 minutes), restitution for damages.
+- **Punishment:** Min. Brig time (up to 15 minutes), restitution for damages. Max. Brig time (up to 25 minutes).
 
 ### Unauthorized Syndicate Equipment
 
 - **Definition:** Possessing enemy organization's gear or resources.
-- **Punishment:** Brig time (up to 20 minutes), confiscation of gear or resources
+- **Punishment:** Min. Brig time (up to 20 minutes), confiscation of gear or resources. Max. Brig time (up to 25 minutes).
 
 ## Capital Crimes and Punishments <a name="capital-crimes-and-punishments"></a>
 
 ### Mutiny Against Pax Astralis Sector Command
 
 - **Definition:** Organized rebellion against the chain of command.
-- **Punishment:** Permanent brig time (minimum bail 85 000 spesos)
+- **Punishment:** Min. Permanent brig time (bail 85 000 spesos). Max. Permanent brig time (bail 125 000 spesos).
 
 ### Mass Destruction
 
 - **Definition:** Deliberate and extensive damage to vital station systems.
-- **Punishment:** Permanent brig time. (minimum bail 85 000 spesos)
+- **Punishment:** Min. Permanent brig time (bail 85 000 spesos). Max. Permanent brig time (bail 125 000 spesos).
 
 ### Malicious Homicide
 
 - **Definition:** Intentional killing of one crew member.
-- **Punishment:** Permanent brig time (minimum bail 100 000 spesos).
+- **Punishment:** Permanent brig time (minimum bail 100 000 spesos). Permanent brig time (minimum bail 200 000 spesos).
 
 ### Malicious Mass Homicide
 
