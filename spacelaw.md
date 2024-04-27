@@ -47,6 +47,11 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 
 ## Moderate Crimes and Punishments <a name="moderate-crimes-and-punishments"></a>
 
+### Reckless flying
+
+- **Definition:** Bumping in to other ships or stations causing major disruption.
+- **Punishment:** Min. Brig time (up to 12 minutes) or fine (24000). Max. Brig time (up to 20 minutes).
+
 ### Assault
 
 - **Definition:** Infliction of harm upon another crew member.
@@ -61,6 +66,11 @@ Welcome to the Space Law Handbook for Pax Astralis Sector. This document outline
 
 - **Definition:** Possessing enemy organization's gear or resources.
 - **Punishment:** Min. Brig time (up to 20 minutes), confiscation of gear or resources. Max. Brig time (up to 25 minutes).
+
+### Manslaughter
+
+- **Definition:** Causing death of another crew member accidentally.
+- **Punishment:** Min. Brig time (up to 20 minutes). Max. Brig time (up to 25 minutes).
 
 ## Capital Crimes and Punishments <a name="capital-crimes-and-punishments"></a>
 
