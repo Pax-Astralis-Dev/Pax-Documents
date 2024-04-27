@@ -72,6 +72,12 @@ In alignment with Section 7 of the Central Command (CC) Handbook, Low Command (L
 
 3. **Rehabilitation and Training:** The objective of this procedure is not merely punitive but aims for rehabilitation. By confining the Shitter to the prison environment, Sector Command can work to modify their behavior positively. Through interaction, guidance, and training, LC endeavors to transform the disruptive player into a constructive member of the Pax Astralis community.
 
+Training program:
++ In the prison LC member will go through rules with the person in prison. And will test them on their knowledge. The person in prison need to answer at least 5 rule related questions correctly to get out.
++ The person in prison must give official promise to change their behavior, or they would get banned if they continue to behavior when outside the prison.
++ The LC member should invite the person to discord if they are not on discord already, to integrate them in to community. They should advise the person in prison to read the server's story and server information to know more what the server is about.
+
+
 4. **Long-term Monitoring:** LC maintains vigilance over the progress of the Shitter within the prison environment. Regular assessment and interaction with the confined player are essential to gauge their development and readiness for reintegration into the general player base.
 
 5. **Community Impact:** By implementing this procedure, LC contributes to fostering a healthy and harmonious gaming environment. Proactive measures to address disruptive behavior not only benefit the community but also uphold the integrity and reputation of Pax Astralis.
