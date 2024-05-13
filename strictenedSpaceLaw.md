@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Space Law Handbook for Pax Astralis Sector. This document outlines the rules and regulations that govern behavior aboard the space station. Ignorance of the law is not an excuse, so familiarize yourself with the following guidelines.
+Welcome to the Space Law Handbook for Pax Astralis Sector. This document outlines the Hegemony´s rules and regulations that govern behavior aboard the space station. Ignorance of the law is not an excuse, so familiarize yourself with the following guidelines.
 
 ## Table of Contents
 
